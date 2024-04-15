@@ -1,2 +1,2 @@
 # kantar_uygulamasi
- Js ile yazılmıştır
+ LocalStorage kullanılarak offline çalışan kantar uygulaması javascript dilinde yazılmıştır.
